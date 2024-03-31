@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+ <html lang="zxx">
+
+    
+<!-- Mirrored from ui-themez.smartinnovates.net/items/kewll/demo1-dark.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 31 Mar 2024 07:36:19 GMT -->
+<head>
+
+    	<!-- Metas -->
+        <meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<meta name="keywords" content="HTML5 Template Kewll onepage themeforest" />
+		<meta name="description" content="Kewll - Onepage Multi-Purpose HTML5 Template" />
+		<meta name="author" content="" />
+
+		<!-- Title  -->
+		<title>Shriya</title>
+
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="img/favicon.ico" />
+
+		<!-- Google Fonts -->
+		<link href="https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700,800" rel="stylesheet">
+		
+		<!-- Plugins -->
+		<link rel="stylesheet" href="css/plugins.css" />
+
+        <!-- Core Style Css -->
+        <link rel="stylesheet" href="css/style.css" />
+
+    </head>
+
+    <body class="theme-dark">
+
+    	<!-- =====================================
+    	==== Start Loading -->
+
+    	<div class="loading">
+    		<div class="text-center middle">
+    			<div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div>
+    		</div>
+    	</div>
+        
+    	<!-- End Loading ====
+    	======================================= -->
+
+       
+    	<!-- =====================================
+    	==== Start Navbar -->
+
+		<nav class="navbar navbar-expand-lg">
+			<div class="container">
+
+            <!-- Logo -->
+            <a class="logo" href="#">
+                Shriya          
+            </a>
+
+			  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			    <span class="icon-bar"><i class="fas fa-bars"></i></span>
+			  </button>
+
+			  <!-- navbar links -->
+			  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+			    <ul class="navbar-nav ml-auto">
+			      <li class="nav-item">
+			        <a class="nav-link active" href="#" data-scroll-nav="0">Home</a>
+			      </li>
+			      <li class="nav-item">
+                    <a class="nav-link" href="#" data-scroll-nav="1">About</a>
+                  </li>
+			      <li class="nav-item">
+			        <a class="nav-link" href="#" data-scroll-nav="2">Education</a>
+			      </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#" data-scroll-nav="3">Work Experience</a>
+                  </li>
+			      <li class="nav-item">
+			        <a class="nav-link" href="#" data-scroll-nav="4">Extracurricular Activities</a>
+			      </li>
+			      <li class="nav-item">
+			        <a class="nav-link" href="#" data-scroll-nav="5">Contact</a>
+			      </li>
+			    </ul>
+			  </div>
+			</div>
+		</nav>
+
+    	<!-- End Navbar ====
+    	======================================= -->
+
+
+    	<!-- =====================================
+    	==== Start Header -->
+
+
+    	<header class="header valign bg-img" data-scroll-index="0" data-overlay-dark="6" data-background="C:\Users\Dell\Downloads\IMG_7248~2.jpg" data-stellar-background-ratio="0.5">
+
+            <div class="svg">
+                <svg x="0px" y="0px" viewBox="0 186.5 1920 113.5">
+                    <polygon points="-30,300 355.167,210.5 1432.5,290 1920,198.5 1920,300"></polygon>
+                </svg>
+            </div>
+
+    		<div class="container">
+    			<div class="row">
+    				<div class="full-width text-center caption mt-30">
+                        <h1 class="cd-headline clip">
+                            <span>I Am </span> 
+                            <span class="cd-words-wrapper">
+                                <b class="is-visible">Shriya Bhavaraju</b>
+                                <b>a student at Gitam University</b>
+                            </span>
+                        </h1>
+    				</div>
+    			</div>
+    		</div>
+
+            <div class="arrow bounce" data-scroll-nav="1">
+                <img src="img/down-chevron.svg" alt="">
+            </div>
+
+    	</header>
+
+    	<!-- End Header ====
+    	======================================= -->
+
+        <!-- =====================================
+        ==== Start Hero -->
+        
+        <section class="hero section-padding" data-scroll-index="1">
+            <div class="container">
+                <div class="row">
+                    
+                    <div class="col-lg-5">
+                        <div class="author-img">
+                            <img src="C:\Users\Dell\Downloads\IMG_7248~2.jpg" alt="">
+                        </div>
+                    </div>
+
+                    <div class="col-lg-7">
+                        <div class="content">
+                            <h4>I'm Shriya Bhavaraju</h4>
+                            <span>Student at Gitam University</span>
+                            <p>I am currently pursuing B.tech third year in Computer Science at GITAM University. I am enthusiastic about joining an organization where I can apply and refine my knowledge and skills to contribute to the growth of both the organization and my professional development.</p>
+                            <p>I am eager to bridge the gap between theoretical learning and practical application in a real-world context, with the goal of enhancing my capabilities and making meaningful contributions to the success of the organization.</p>
+                            <p>My skills include:</p>
+
+                            <div class="skills mt-50">
+                                <div class="skill-item">
+                                    <h6>PYTHON <span>95%</span></h6>
+                                    <div class="skills-progress"><span data-value="95%"></span></div>
+                                </div>
+                                <div class="skill-item">
+                                    <h6>C <span>80%</span></h6>
+                                    <div class="skills-progress"><span data-value="80%"></span></div>
+                                </div>
+                                <div class="skill-item">
+                                    <h6>HTML <span>85%</span></h6>
+                                    <div class="skills-progress"><span data-value="85%"></span></div>
+                                </div>
+                                <div class="skill-item">
+                                    <h6>CSS<span>90%</span></h6>
+                                    <div class="skills-progress"><span data-value="90%"></span></div>
+                                </div>
+                                <div class="skill-item">
+                                    <h6>SQL<span>80%</span></h6>
+                                    <div class="skills-progress"><span data-value="80%"></span></div>
+                                </div>
+                                <div class="skill-item">
+                                    <h6>JAVA<span>85%</span></h6>
+                                    <div class="skills-progress"><span data-value="85%"></span></div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="se-tring se-tring-gray">
+                <span class="left"></span>
+                <span class="right"></span>
+            </div>
+        </section>
+        
+        <!-- End Hero ====
+        ======================================= -->
+
+
+        <!-- =====================================
+        ==== Start Services -->
+
+        <section class="services section-padding bg-gray" data-scroll-index="2">
+            <div class="container">
+                <div class="row">
+                    
+                    <div class="section-head text-center col-sm-12">
+                        <h4>My Education</h4>
+                        <h6>Qualifications</h6>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6">
+                        <div class="item">
+                            <span class="icon"><i class="icon-laptop"></i></span>
+                            <h6>Gitam University</h6>
+                            <p>I'm currently in the third year pursuing Computer Science.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="item">
+                            <span class="icon"><i class="icon-briefcase"></i></span>
+                            <h6>Prabha Junior College</h6>
+                            <p>I successfully completed my Intermediate education during the years 2019 to 2021 .</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="item">
+                            <span class="icon"><i class="icon-circle-compass"></i></span>
+                            <h6>The Presidential School</h6>
+                            <p>I successfully completed my Secondary education in the year 2019.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="se-tring se-tring-rev">
+                <span class="left"></span>
+                <span class="right"></span>
+            </div>
+        </section>
+
+        <!-- End Services ====
+        ======================================= -->
+
+
+        <!-- =====================================
+        ==== Start Portfolio -->
+
+        <section class="portfolio section-padding" data-scroll-index="3">
+            <div class="container">
+                <div class="row">
+                    
+                    <div class="section-head text-center col-sm-12">
+                        <h4>Work Experience</h4>
+                        <h6>Latest Projects</h6>
+                    </div>
+
+                    <div class="col-lg-7">
+                        <div class="content">
+                            <h4>Internship</h4>
+                            <span>Acmegrade</span>
+                            
+                            <p><b>Project Description:</b> During my web development internship, I had the opportunity to contribute to a dynamic project aimed at enhancing user engagement and accessibility on a corporate website</p>
+                            <br>
+                            <p><b>My Role:</b> As an intern, I collaborated closely with the development team under the guidance of senior developers. I actively participated in brainstorming sessions, contributed to code reviews, and implemented various features throughout the project lifecycle.</p>
+                            <div class="image-container">
+                                <img src="D:\wad\Web Development-01.png" alt="Image 1">
+                            </div>
+                            
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="se-tring se-tring-gray">
+                <span class="left"></span>
+                <span class="right"></span>
+            </div>
+        </section>
+
+        <!-- End Portfolio ====
+        ======================================= -->
+
+
+        <!-- =====================================
+        ==== Start Blog -->
+
+        <section class="blog section-padding bg-gray" data-scroll-index="4">
+            <div class="container">
+                <div class="row">
+
+                    <div class="section-head text-center col-sm-12">
+                        <h4>Extracurricular Activities</h4>
+                        <h6>Occupations</h6>
+                    </div>
+
+                    <!-- Posts -->
+                    <div class="owl-carousel owl-theme col-sm-12">
+                        <div class="item mb-30">
+                            <div class="post-img">
+                                <img src="D:\wad\th.jpeg" alt="">
+                            </div>
+                            <div class="content">
+                                <span><a href="#0">November, 2023 - Present</a></span>
+                                <span>/</span>
+                                <span><a href="#0">
+                                    <em>Content Writer</em>
+                                </a></span>
+                                <h5><a href="#0">Content Writer, Gitam ACM</a></h5>
+                                <p>I'm working as a content writer in Gitam ACM</p>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="post-img">
+                                <img src="D:\wad\th (1).jpeg" alt="">
+                            </div>
+                            <div class="content">
+                                <span><a href="#0">December, 2022 - September, 2023</a></span>
+                                <span>/</span>
+                                <span><a href="#0">
+                                    <em>Design Team Member</em>
+                                </a></span>
+                                <h5><a href="#0">Design Team Member, Gitam Creative Arts</a></h5>
+                                <p>I worked as a design team member for the Creative Arts Team of Gitam</p>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="post-img">
+                                <img src="D:\wad\1_RvZ-ni6l4QLGyEbbvDmWHA.jpg" alt="">
+                            </div>
+                            <div class="content">
+                                <span><a href="#0"></a></span>
+                                <span>/</span>
+                                <span><a href="#0">
+                                    <em>Singing</em>
+                                </a></span>
+                                <h5><a href="#0">Carnatic Music</a></h5>
+                                <p>I am learning Carnatic Music. It's my hobby as well.</p>
+                            </div>
+                        </div>
+
+                        
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="se-tring se-tring-rev">
+                <span class="left"></span>
+                <span class="right"></span>
+            </div>
+        </section>
+
+        <!-- End Blog ====
+        ======================================= -->
+
+
+        <!-- =====================================
+        ==== Start Contact -->
+
+        <section class="contact section-padding" data-scroll-index="5">
+            <div class="container">
+                <div class="row">
+
+                    <div class="section-head text-center col-sm-12">
+                        <h4>Contact Me</h4>
+                        <h6>Info</h6>
+                    </div>
+                    
+                    <!-- Contact Form -->
+                    <div class="col-md-12">
+                        <form class="form" id="contact-form" method="post" action="https://ui-themez.smartinnovates.net/items/kewll/contact.php">
+
+                            <div class="messages"></div>
+
+                            <div class="controls">
+
+                                <div class="row">
+
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <input id="form_name" type="text" name="name" placeholder="Name *" required="required" data-error="Firstname is required.">
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <input id="form_email" type="email" name="email" placeholder="Email *" required="required" data-error="Valid email is required.">
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <input id="form_subject" type="text" name="subject" placeholder="Subject">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <textarea id="form_message" name="message" placeholder="Your Message *" rows="4" required="required" data-error="Your message is required."></textarea>
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-12">
+                                        <button type="submit" class="butn butn-bg"><span>Send Message</span></button>
+                                        <div class="info">
+                                            <span><strong>Email</strong> : shriyabhavaraju@gmail.com</span>
+                                            <span><strong>Phone</strong> : +91 8977928955</span>
+                                        </div>
+                                    </div>
+
+                                </div>                             
+                            </div>
+                        </form>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <!-- End Contact ====
+        ======================================= -->
+
+
+        <!-- =====================================
+        ==== Start Footer -->
+
+        <footer class="text-center">
+            <div class="container">
+
+                <!-- Logo -->
+                <a class="logo" href="#">
+                             
+                </a>
+                
+                <div class="social">
+                    
+                    <a href="https://www.instagram.com/shriya_bhavaraju?igsh=MWIyN3F4aWJyNzZpZQ=="><i class="instagram"></i></a>
+                    <a href="linkedin.com/in/shriya-bhavaraju"><i class="linkedin"></i></a>
+                    <a href="https://github.com/VU21CSEN0101459"><i class="github"></i></a>
+                </div>
+
+
+            </div>
+        </footer>
+
+        <!-- End Footer ====
+        ======================================= -->
+
+
+
+
+       
+        <!-- jQuery -->
+        <script src="js/jquery-3.0.0.min.js"></script>
+        <script src="js/jquery-migrate-3.0.0.min.js"></script>
+
+        <!-- popper.min -->
+        <script src="js/popper.min.js"></script>
+
+        <!-- bootstrap -->
+        <script src="js/bootstrap.min.js"></script>
+
+        <!-- scrollIt -->
+        <script src="js/scrollIt.min.js"></script>
+
+        <!-- owl carousel -->
+        <script src="js/owl.carousel.min.js"></script>
+
+        <!-- animated.headline -->
+        <script src="js/animated.headline.js"></script>
+
+        <!-- jquery.magnific-popup js -->
+        <script src="js/jquery.magnific-popup.min.js"></script>
+
+        <!-- stellar js -->
+        <script src="js/jquery.stellar.min.js"></script>
+
+        <!-- isotope.pkgd.min js -->
+        <script src="js/isotope.pkgd.min.js"></script>
+
+        <!-- validator js -->
+        <script src="js/validator.js"></script>
+
+        <!-- custom scripts -->
+        <script src="js/scripts.js"></script>
+
+    </body>
+
+<!-- Mirrored from ui-themez.smartinnovates.net/items/kewll/demo1-dark.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 31 Mar 2024 07:36:26 GMT -->
+</html>
